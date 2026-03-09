@@ -128,7 +128,6 @@ The dataset went through multiple stages before reaching the final version:
 | Stage 1 | ~7 hours | Model learned Egyptian but with inconsistencies |
 | Stage 2 | ~40 hours | Expanded — still had audio quality artifacts |
 | Stage 3 | ~20 hours clean ✅ | Best results — quality over quantity |
-| **Final** | **~90 hours** | Current training set after full curation |
 
 > **Key lesson:** Cleaning and filtering the data had more impact than increasing its size. 20 hours of clean speech outperformed 40 hours of mixed-quality data.
 

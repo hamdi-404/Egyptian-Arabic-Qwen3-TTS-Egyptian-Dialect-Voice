@@ -1,0 +1,1 @@
+# Egyptian-Arabic-Qwen3-TTS-Egyptian-Dialect-Voice
